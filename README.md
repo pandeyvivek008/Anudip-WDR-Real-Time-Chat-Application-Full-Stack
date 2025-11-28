@@ -100,9 +100,5 @@ PORT
 ## 👨‍💻 Maintainer
 
 Vivek Pandey
-📧 pandeyvivekworks@gmail.com
+📧 vp481225@gmail.com
 
-
-📧 pandeyvivekworks@gmail.com
-
-🐙 GitHub: vivekpandeyworks
